@@ -1,0 +1,6 @@
+@WebApiAgentFramework_HostAddress = http://localhost:5220
+
+GET {{WebApiAgentFramework_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

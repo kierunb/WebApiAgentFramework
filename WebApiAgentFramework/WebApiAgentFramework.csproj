@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>9c100dea-73d8-4e3b-bd8c-fe0f77685a88</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.AI.OpenAI" Version="2.1.0" />
+    <PackageReference Include="Microsoft.Agents.AI.AzureAI" Version="1.0.0-rc3" />
+    <PackageReference Include="Microsoft.Agents.AI.DevUI" Version="1.0.0-preview.260304.1" />
+    <PackageReference Include="Microsoft.Agents.AI.Hosting" Version="1.0.0-preview.260304.1" />
+    <PackageReference Include="Microsoft.Agents.AI.Hosting.OpenAI" Version="1.0.0-alpha.260304.1" />
+    <PackageReference Include="Microsoft.Agents.AI.OpenAI" Version="1.0.0-rc3" />
+    <PackageReference Include="Microsoft.Agents.AI.Workflows" Version="1.0.0-rc3" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.3" />
+    <PackageReference Include="Microsoft.Extensions.AI.OpenAI" Version="10.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Agents\" />
+  </ItemGroup>
+
+</Project>
