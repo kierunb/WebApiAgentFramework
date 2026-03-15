@@ -13,13 +13,6 @@
     - [Agent with Skills](https://github.com/microsoft/agent-framework/blob/main/dotnet/samples/02-agents/AgentSkills/Agent_Step01_BasicSkills/Program.cs)
 
 
-### Workflows
-
-- [Workflow Docs](https://learn.microsoft.com/en-us/agent-framework/workflows/)
-- [Workflow Samples](https://github.com/microsoft/agent-framework/tree/main/dotnet/samples/03-workflows)
-- [Agentic Workflow Patterns](https://github.com/microsoft/agent-framework/blob/main/dotnet/samples/03-workflows/_StartHere/03_AgentWorkflowPatterns/Program.cs)
-- [Workflow Visualization](https://github.com/microsoft/agent-framework/tree/main/dotnet/samples/03-workflows/Visualization)
-
 ### A2A
 
 - [A2A Server](https://github.com/microsoft/agent-framework/blob/main/dotnet/samples/05-end-to-end/A2AClientServer/A2AServer/Program.cs)
@@ -31,3 +24,11 @@
 - [AG-UI Protocol](https://docs.ag-ui.com/introduction)
 - [AG-UI Interactive Dojo](https://dojo.ag-ui.com/microsoft-agent-framework-dotnet/feature/agentic_chat)
 - [AG-UI C# Tutorial](https://www.copilotkit.ai/blog/build-a-frontend-for-your-microsoft-agent-framework-agents-with-ag-ui)
+
+### Workflows
+
+- [Workflow Docs](https://learn.microsoft.com/en-us/agent-framework/workflows/)
+- [Workflow Samples](https://github.com/microsoft/agent-framework/tree/main/dotnet/samples/03-workflows)
+- [Agentic Workflow Patterns](https://github.com/microsoft/agent-framework/blob/main/dotnet/samples/03-workflows/_StartHere/03_AgentWorkflowPatterns/Program.cs)
+- [Workflow Visualization](https://github.com/microsoft/agent-framework/tree/main/dotnet/samples/03-workflows/Visualization)
+
