@@ -1,5 +1,10 @@
 # Agent Framework
 
+## Repo & Docs
+
+- [Agent Framework Docs](https://learn.microsoft.com/en-us/agent-framework/overview/?pivots=programming-language-csharp)
+- [Agent Framework Repo](https://github.com/microsoft/agent-framework) 
+
 ## Samples
 
 - [Agent Features](https://github.com/microsoft/agent-framework/tree/main/dotnet/samples/02-agents/Agents)
@@ -10,6 +15,7 @@
     - [Agent with Middleware](https://github.com/microsoft/agent-framework/blob/main/dotnet/samples/02-agents/Agents/Agent_Step11_Middleware/Program.cs)
     - [Agent with Tools with Approvals](https://github.com/microsoft/agent-framework/blob/main/dotnet/samples/02-agents/Agents/Agent_Step01_UsingFunctionToolsWithApprovals/Program.cs)
     - [Agent with MCP Server](https://github.com/microsoft/agent-framework/blob/main/dotnet/samples/02-agents/ModelContextProtocol/Agent_MCP_Server/Program.cs)
+    - [MCP C# SDK](https://csharp.sdk.modelcontextprotocol.io/concepts/getting-started.html)
     - [Agent with Skills](https://github.com/microsoft/agent-framework/blob/main/dotnet/samples/02-agents/AgentSkills/Agent_Step01_BasicSkills/Program.cs)
 
 
