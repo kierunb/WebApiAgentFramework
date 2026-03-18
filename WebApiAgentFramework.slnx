@@ -2,6 +2,7 @@
   <Folder Name="/Solution Items/">
     <File Path="readme.md" />
   </Folder>
-  <Project Path="McpServer/McpServer.csproj" Id="2204dce0-427a-4237-a8d7-f5ac9ccabe4d" />
+  <Project Path="McpServer/McpServerStdioHost.csproj" Id="2204dce0-427a-4237-a8d7-f5ac9ccabe4d" />
+  <Project Path="McpServerWebHost/McpServerWebHost.csproj" Id="0b411b67-2f15-4e77-bd91-30d20933735f" />
   <Project Path="WebApiAgentFramework/WebApiAgentFramework.csproj" />
 </Solution>
